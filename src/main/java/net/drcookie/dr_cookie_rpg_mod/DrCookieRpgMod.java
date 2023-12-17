@@ -25,8 +25,6 @@ public class DrCookieRpgMod
     private static final Logger LOGGER = LogUtils.getLogger();
 
 
-
-
     public DrCookieRpgMod()
     {
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
